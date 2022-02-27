@@ -18,16 +18,16 @@ This app is a blog site contact page and shows how developers can use the Card a
 <div class="row">
       <div class="column">
 <img width ='72px' src 
-     ='https://raw.githubusercontent.com/MuharremKoroglu/Bitcoin/main/Flag_of_the_United_Kingdom.svg'>
+     ='https://raw.githubusercontent.com/MuharremKoroglu/Quiz_Show/main/Flag_of_Turkey.svg'>
   </div>
 </div>
 
 <h2> Images <img src = "https://media2.giphy.com/media/psneItdLMpWy36ejfA/source.gif" width = 62px> </h2>
   <div class="row">
 <img width ='350px' src 
-     ='https://raw.githubusercontent.com/MuharremKoroglu/Synta_x/main/Synta_x_main.png'>
+     ='https://raw.githubusercontent.com/MuharremKoroglu/Starbucks/main/Starbucks_main.png'>
 <img width ='350px' src 
-     ='https://raw.githubusercontent.com/MuharremKoroglu/Synta_x/main/Synta_x_icon.png'>
+     ='https://raw.githubusercontent.com/MuharremKoroglu/Starbucks/main/starbucks_icon.png'>
   </div>
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <a href = 'mailto:muharremkoroglu245@gmail.com'> <img align="center" width = '32px' align= 'center' src="https://raw.githubusercontent.com/MuharremKoroglu/MuharremKoroglu/main/gmail-logo-2561.svg"/></a>
